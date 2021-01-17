@@ -22,3 +22,7 @@ Genome analysis is the identification of genomic features such as gene expressio
 **You may use any programming language you feel most comfortable. We recommend Python because it is the easiest to implement. You're allowed to use any library you want to implement this**, just document which ones you used in this README file. Try to complete this as soon as possible.
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file. However, we highly recommend giving the challenge a try, you just might learn something new!
+
+Libraries used:
+-BioPython/GenomeDiagram
+-NumPy
